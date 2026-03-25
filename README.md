@@ -10,3 +10,9 @@ This project is my practical first project on how to create a portfolio in githu
 + Staffing 
 + Service 
 + Operations 
+
+**Methodology**
+
++ **Data Analysis**
++ **Root cause Analysis**
++ **Solution**
