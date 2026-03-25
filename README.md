@@ -17,6 +17,7 @@ This project is my practical first project on how to create a portfolio in githu
 + **Root cause Analysis**
 + **Solution**
 ***
+
 **Data Source**
 
 This Data was provided by a client
@@ -46,3 +47,6 @@ SQL
  tsk34
 ```
 ***
+**Result Derive**
+***
+![Screenshot_20260321_193209](https://github.com/user-attachments/assets/0e02cc73-2196-442a-ac2c-344f26de8170)
