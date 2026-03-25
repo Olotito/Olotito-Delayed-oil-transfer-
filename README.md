@@ -27,3 +27,11 @@ This Data was provided by a client
 + My SQL
 + Power BI
 ***
+
+**Expository Data Analysis (EDA)**
+
+***
+
+**Key Questions to look into**
+
+***
