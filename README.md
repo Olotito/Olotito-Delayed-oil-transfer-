@@ -35,3 +35,12 @@ This Data was provided by a client
 **Key Questions to look into**
 
 ***
+SQL
+
+ one step
+ At a time 
+ DC
+ kmph
+ d1 
+ tsk34
+ ***
